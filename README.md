@@ -24,6 +24,7 @@
 [<img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />][linkedin]
 [<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/ios/50/000000/c-plus-plus.png" />][linkedin]
 [<img align="left" alt="MYSQL" width="26px" src="https://img.icons8.com/color/50/000000/mysql-logo.png" />][linkedin]
+[<img align="left" alt="POSTGRESQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][linkedin]
 
 
 
