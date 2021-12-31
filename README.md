@@ -21,7 +21,7 @@
 ### Languages and Tools
 [<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][linkedin]
 [<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][linkedin]
-[<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/metro/26/000000/c-plus-plus.png" />][linkedin]
+[<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/ios/50/000000/c-plus-plus.png" />][linkedin]
 [<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][linkedin]
 
 
