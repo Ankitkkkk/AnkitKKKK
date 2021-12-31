@@ -41,11 +41,11 @@
 
 ### 📺 Latest YOUTUBE VIDEOS
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
+- [Educational Codeforces Round 120 &lpar;Rated for Div. 2&rpar; | A and B Solved | Plasmindo](https://www.youtube.com/watch?v=duriNokXo6o)
+- [Educational Codeforces Round 119 &lpar;Rated for Div. 2&rpar; | A. Equal or Not Equal | B. Tri &amp; Rectanles sol](https://www.youtube.com/watch?v=AByWFvQWTR4)
+- [CODEFORCES ROUND 761 DIV 2 | A - Forbidden Subsequence |B - GCD Problem | SOLUTION | PLASMINDO](https://www.youtube.com/watch?v=59yEOXPtqxM)
+- [Codeforces Round 760 | Question A and B Solved | Plasmindo | Hindi](https://www.youtube.com/watch?v=UXlCZnSbY9Q)
+- [Codeforces Global Round 16 | Solved | A B C easy solution | Plasmindo](https://www.youtube.com/watch?v=GaGXl95LewA)
 <!-- YOUTUBE:END -->
 
 ---
