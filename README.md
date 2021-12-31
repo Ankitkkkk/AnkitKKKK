@@ -20,6 +20,10 @@
 ---
 ### Languages and Tools
 [<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][linkedin]
+[<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][linkedin]
+[<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][linkedin]
+[<img align="left" alt="VsCode" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][linkedin]
+
 
 
 <br />
