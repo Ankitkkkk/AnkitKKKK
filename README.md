@@ -1,4 +1,4 @@
-### Hi there, I'm Ankit - [linkedin] 👋 
+### Hi there, I'm [Ankit][linkedin] 👋 
 
 
 ## I'm a learner, Developer, and Teacher!!
